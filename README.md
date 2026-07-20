@@ -4,9 +4,9 @@
 
 
 ### Usage (Files) 
-`python3 hconv.py` <br>
-`python hconv.py` 
+`python3 hrev.py` <br>
+`python hrev.py` 
 
 ### Usage (Text Input) 
-`python3 hconv.py s` <br>
-`python hconv.py s`
+`python3 hrev.py s` <br>
+`python hrev.py s`
